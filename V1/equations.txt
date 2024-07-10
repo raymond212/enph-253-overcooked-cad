@@ -1,0 +1,3 @@
+﻿"tightTol"= 0.005in
+"normTol"= 0.01in
+"looseTol"= 0.02in
