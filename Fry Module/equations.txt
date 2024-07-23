@@ -1,7 +1,7 @@
-﻿"tightTol"= 0.005in
-"normTol"= 0.01in
-"looseTol"= 0.02in
-"Fry height"= 3 / 8
-"Fry spacing"= 1 / 2
-"Potato width"= "Fry spacing" * 4
-"Potato length"= 3
+﻿"tightTol"= 0.005in
+"normTol"= 0.01in
+"looseTol"= 0.02in
+"Fry height"= 0.5in
+"Fry spacing"= 0.5625in
+"Potato width"= "Fry spacing" * 4
+"Potato length"= 3.5in
