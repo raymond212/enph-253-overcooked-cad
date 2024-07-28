@@ -5,4 +5,4 @@
 "Fry spacing"= 0.5625in
 "Potato width"= "Fry spacing" * 4
 "Potato length"= 80mm
-"top robot surface separation" = 1/8+1/8+8mm
+"top robot surface separation" = 0.6875
